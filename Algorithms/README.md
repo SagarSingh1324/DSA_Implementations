@@ -10,4 +10,4 @@
 1. Bipartiteness Check in a graph
 2. Bellman Ford Algorithm implementation
 3. Dijkstra Algorithm implementation
-4. Tree Traversal using DFS - Inorder, PreOrder, PostOrder 
+4. Tree Traversal using DFS 
